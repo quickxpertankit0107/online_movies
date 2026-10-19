@@ -91,3 +91,4 @@ temp/
 
 coverage/
 .nyc_output/
+*.txt
