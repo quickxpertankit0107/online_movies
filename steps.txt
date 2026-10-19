@@ -1,7 +1,1 @@
-render -- ankitquickxpert0107@gmail.com
-vercel -- ankitquickxpert0107@gmail.com
-mobile number on vercel 8652793163
 
-to check space in render
-Total: 387 GB in render
-https://online-movies-k5ge.onrender.com/debug/disk?utm_source=chatgpt.com
