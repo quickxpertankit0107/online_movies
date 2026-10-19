@@ -7,7 +7,7 @@ import Video from "../models/Video.js";
 const VIDEO_FOLDER = process.env.VIDEO_FOLDER || "/var/data/videos";
 
 const SERVER_URL =
-  process.env.SERVER_URL || "https://online-movies-uebc.onrender.com";
+  process.env.SERVER_URL || "https://online-movies-k5ge.onrender.com";
 
 // ==========================================
 // DOWNLOAD FILE

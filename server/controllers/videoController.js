@@ -20,7 +20,7 @@ const __dirname = path.dirname(__filename);
 const VIDEO_FOLDER = path.join(__dirname, "..", "videos");
 
 const SERVER_URL =
-  process.env.SERVER_URL || "https://online-movies-uebc.onrender.com";
+  process.env.SERVER_URL || "https://online-movies-k5ge.onrender.com";
 
 await fs.promises.mkdir(VIDEO_FOLDER, {
   recursive: true,

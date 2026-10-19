@@ -1,6 +1,6 @@
 const API_URL = import.meta.env.DEV
   ? "http://localhost:5000"
-  : "https://online-movies-uebc.onrender.com";
+  : "https://online-movies-k5ge.onrender.com";
 
 export const api = (path) => {
   return `${API_URL}${path}`;

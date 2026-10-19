@@ -47,7 +47,7 @@ export const videoFromUrl = async (req, res) => {
 
     console.log("Saved:", filePath);
 
-    const videoUrl = `https://online-movies-uebc.onrender.com/videos/${filename}`;
+    const videoUrl = `https://online-movies-k5ge.onrender.com/videos/${filename}`;
 
     // const videoUrl = `http://localhost:${process.env.PORT || 5000}/videos/${filename}`;
 
